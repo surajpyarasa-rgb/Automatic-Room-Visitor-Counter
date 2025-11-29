@@ -1,7 +1,6 @@
 # Automatic-Room-Visitor-Counter
 This project uses an Arduino, two IR sensors, and an LCD display to create an automatic bidirectional visitor counter. It keeps track of how many people enter and exit a room and automatically turns the lights ON/OFF based on occupancy.  
 
-# Automatic Room Visitor Counter with Light Control
 
 This project is an Arduino-based visitor counter that tracks how many people enter and exit a room using two IR sensors. It automatically turns a light ON or OFF using a relay based on the number of people inside. A 16x2 LCD displays the real-time count of people in the room.
 
